@@ -1,0 +1,2 @@
+# RabbitmqNetCore
+ RabbitMq
