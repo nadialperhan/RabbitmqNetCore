@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\services\\rabbitmqclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\services\\rabbitmqclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\views\\product\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\views\\product\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\filecreateworkerservice\\services\\rabbitmqclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|solutionrelative:filecreateworkerservice\\services\\rabbitmqclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\filecreateworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|solutionrelative:filecreateworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB147061-2AC3-4B64-8374-EDB5DFF5C3C8}|Shared\\Shared.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\shared\\createexcelmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB147061-2AC3-4B64-8374-EDB5DFF5C3C8}|Shared\\Shared.csproj|solutionrelative:shared\\createexcelmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\filecreateworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|solutionrelative:filecreateworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\models\\userfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\models\\userfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\filecreateworkerservice\\models\\adventureworks2017context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|solutionrelative:filecreateworkerservice\\models\\adventureworks2017context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\filecreateworkerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|solutionrelative:filecreateworkerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\filecreateworkerservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B33C26-A867-4D0D-BB1D-FD174AD7AFDF}|FileCreateWorkerService\\FileCreateWorkerService.csproj|solutionrelative:filecreateworkerservice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|c:\\users\\nadi alperhan\\desktop\\rabbitmqweb.excelcreate\\rabbitmqweb.excelcreate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1105C140-40F1-4466-9E4D-5CF4D8339639}|RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate.csproj|solutionrelative:rabbitmqweb.excelcreate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Controllers\\FilesController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:54:25.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "FileCreateWorkerService\\Worker.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Worker.cs",
+              "RelativeToolTip": "FileCreateWorkerService\\Worker.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADwv0UAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:33:12.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Files.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Product\\Files.cshtml",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Views\\Product\\Files.cshtml",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Product\\Files.cshtml",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Views\\Product\\Files.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T15:18:21.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAywCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:57:05.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RabbitMqClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Services\\RabbitMqClientService.cs",
+              "RelativeDocumentMoniker": "FileCreateWorkerService\\Services\\RabbitMqClientService.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Services\\RabbitMqClientService.cs",
+              "RelativeToolTip": "FileCreateWorkerService\\Services\\RabbitMqClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:36:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Services\\RabbitMqClientService.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Services\\RabbitMqClientService.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Services\\RabbitMqClientService.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Services\\RabbitMqClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:29:26.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwDEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T14:17:42.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T14:18:14.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Services\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Services\\RabbitMqPublisher.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Services\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Services\\RabbitMqPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:44:51.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateExcelMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\Shared\\CreateExcelMessage.cs",
+              "RelativeDocumentMoniker": "Shared\\CreateExcelMessage.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\Shared\\CreateExcelMessage.cs",
+              "RelativeToolTip": "Shared\\CreateExcelMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:46:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "FileCreateWorkerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Program.cs",
+              "RelativeToolTip": "FileCreateWorkerService\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:33:06.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T13:44:20.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserFile.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Models\\UserFile.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Models\\UserFile.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Models\\UserFile.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Models\\UserFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:29:18.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdventureWorks2017Context.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Models\\AdventureWorks2017Context.cs",
+              "RelativeDocumentMoniker": "FileCreateWorkerService\\Models\\AdventureWorks2017Context.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Models\\AdventureWorks2017Context.cs",
+              "RelativeToolTip": "FileCreateWorkerService\\Models\\AdventureWorks2017Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:45:22.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FileCreateWorkerService\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\Models\\Product.cs",
+              "RelativeToolTip": "FileCreateWorkerService\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T12:45:28.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileCreateWorkerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\appsettings.json",
+              "RelativeToolTip": "FileCreateWorkerService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T11:42:55.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Startup.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Startup.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Startup.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Startup.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:37:14.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:29:19.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\appsettings.json",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\appsettings.json",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T12:35:02.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Program.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Program.cs",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:21:43.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T15:36:44.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T14:04:32.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T15:24:15.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RabbitmqWeb.ExcelCreate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\RabbitmqWeb.ExcelCreate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RabbitmqWeb.ExcelCreate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBsAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T14:13:34.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
