@@ -28,8 +28,8 @@ namespace RabbitmqWeb.ExcelCreate.Controllers
             {
                 return View();
             }
-            var signinresult = await _signInManager.PasswordSignInAsync(hasuser, Password, true, false);
-            if (!signinresult.Succeeded) 
+            var signinresult = await _signInManager.PasswordSignInAsync(hasuser, Password, true, false);//Password123!
+            if (!signinresult.Succeeded)
             {
                 return View();
             }

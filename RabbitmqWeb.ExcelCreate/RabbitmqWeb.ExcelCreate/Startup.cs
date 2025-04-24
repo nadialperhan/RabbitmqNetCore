@@ -9,6 +9,7 @@ using Microsoft.Extensions.Hosting;
 using RabbitMQ.Client;
 using RabbitmqWeb.ExcelCreate.Models;
 using RabbitmqWeb.ExcelCreate.Services;
+using RabbitmqWeb.ExcelCreate.SignalR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -42,6 +43,7 @@ namespace RabbitmqWeb.ExcelCreate
             }).AddEntityFrameworkStores<AppDbContext>();
 
             services.AddControllersWithViews();
+            services.AddSignalR();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -66,6 +68,7 @@ namespace RabbitmqWeb.ExcelCreate
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapHub<MyHub>("/MyHub");
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

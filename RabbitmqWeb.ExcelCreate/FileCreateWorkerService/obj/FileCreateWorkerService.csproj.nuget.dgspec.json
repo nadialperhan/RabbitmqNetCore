@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\FileCreateWorkerService.csproj": {}
+    "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\FileCreateWorkerService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\FileCreateWorkerService.csproj": {
+    "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\FileCreateWorkerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\FileCreateWorkerService.csproj",
+        "projectUniqueName": "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\FileCreateWorkerService.csproj",
         "projectName": "FileCreateWorkerService",
-        "projectPath": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\FileCreateWorkerService.csproj",
+        "projectPath": "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\FileCreateWorkerService.csproj",
         "packagesPath": "C:\\Users\\Nadi Alperhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\obj\\",
+        "outputPath": "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\FileCreateWorkerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadi Alperhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj"
+              "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj"
               }
             }
           }
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -89,8 +84,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -99,18 +93,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj": {
+    "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Nadi Alperhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nadi Alperhan\\Desktop\\RabbitmqWeb.ExcelCreate\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Nadi Alperhan\\Desktop\\Github\\RabbitmqNetCore\\RabbitmqWeb.ExcelCreate\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nadi Alperhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,11 +128,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -150,8 +139,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -160,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
